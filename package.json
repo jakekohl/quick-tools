@@ -1,0 +1,19 @@
+{
+  "name": "quick-tools",
+  "version": "1.0.0",
+  "description": "quick tools to do random one off stuff",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakekohl/quick-tools.git"
+  },
+  "author": "jakekohl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakekohl/quick-tools/issues"
+  },
+  "homepage": "https://github.com/jakekohl/quick-tools#readme"
+}
